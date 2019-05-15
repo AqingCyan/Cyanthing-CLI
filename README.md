@@ -2,7 +2,9 @@
 
 > 此脚手架工具为为Cyanthing开发项目所用，需求正在打磨中🔨
 
-![Cyanthing-CLI](http://wx2.sinaimg.cn/large/0060lm7Tly1g32fevdbkgj30q80gadga.jpg)
+<p align="center">
+  <img width="400" src="http://wx2.sinaimg.cn/large/0060lm7Tly1g32fevdbkgj30q80gadga.jpg">
+</p>
 
 ## 项目进度
 
