@@ -1,6 +1,6 @@
 {
   "name": "cyanthing-cli",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Cyanthing custom scaffolding tool",
   "main": "app.js",
   "scripts": {
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "AqingCyan",
-  "license": "ISC"
+  "license": "MIT",
+  "devDependencies": {
+    "commander": "^2.20.0"
+  }
 }
